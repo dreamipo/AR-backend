@@ -2,3 +2,9 @@ fastapi
 uvicorn
 python-dotenv
 tripo3d
+supabase==2.3.3
+starlette
+pydantic
+aiofiles
+python-multipart
+requests
